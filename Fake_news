@@ -1,0 +1,15 @@
+In this project, I utilized a diverse set of machine 
+learning algorithms including Random Forests, 
+Gradient Boosting, Logistic Regression, and Decision 
+Trees to achieve comprehensive fake news detection.
+
+Leveraged the ensemble learning techniques of 
+Random Forests and Gradient Boosting to enhance 
+model accuracy and robustness by aggregating 
+predictions from multiple base learners.   
+
+Adopted a feature-rich approach, extracting relevant 
+features such as linguistic patterns, source credibility, 
+and social media engagement metrics to feed into the 
+models, enabling them to discern between genuine and 
+fake news articles effectively.   
